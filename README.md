@@ -3,8 +3,6 @@
   <img height="250" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 -I'm a student at **Sheridan College**, currently enrolled in the **Software Development and Network Engineering (SDNE)** program.
@@ -16,9 +14,6 @@
 ### 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nghi-lam-vo)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lamvo.tech@gmail.com)
-
----
-
 
 
 ## 💻 Tech Stack
