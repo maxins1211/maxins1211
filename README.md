@@ -1,7 +1,8 @@
-
+##
 <div align="center">
-  <img height="320" width="640" src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA4MTc4NjUsIm5iZiI6MTc1MDgxNzU2NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI1VDAyMTI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxNjE0MTgwZjczYzY0NjgxNjMyYWM4N2UyMGE0Mzc0MDgwMGRiMmQzNTNhMjNhMWQ2ZmUxNmY5MGZkMGY5YWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OLgCDpDEJppIfl7D7wU-254WFykoMhPAsoL4yn7Oq8A"/>
+  <img height="320" width="640" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA4MTc4NjUsIm5iZiI6MTc1MDgxNzU2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI1VDAyMTI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYxYjdmZmNmNWU4MzQ5NGZmY2QzNGU3MWZiMDA3NjA3N2UwZjRhNjk3ZWNiNjgyYjYyYTFiNzBkM2I0ODQyNWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aMo4vWjGJGgD7AzYRCwcRvtuGxpT6Zs3ZqOK6T_FPP0"/>
 </div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nghi-lam-vo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lamvo.tech@gmail.com) 
 
@@ -10,6 +11,3 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maxins1211&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxins1211&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
