@@ -7,10 +7,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a student at **Sheridan College**, currently enrolled in the **Software Development and Network Engineering (SDNE)** program.
+-I'm a student at **Sheridan College**, currently enrolled in the **Software Development and Network Engineering (SDNE)** program.
 
-I'm passionate about **full stack development**, with a current focus on the **MERN stack** (MongoDB, Express, React, Node.js).  
-In the near future, I plan to dive deeper into backend development using **object-oriented languages like Java and C#**.
+-I'm passionate about **full stack development**, with a current focus on the **MERN stack** (MongoDB, Express, React, Node.js).  
+
+-In the near future, I plan to dive deeper into backend development using **object-oriented languages like Java and C#**.
 
 ### 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nghi-lam-vo)
@@ -60,6 +61,6 @@ In the near future, I plan to dive deeper into backend development using **objec
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxins1211&theme=default&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxins1211&theme=default&show_icons=true&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxins1211&theme=default&show_icons=true&hide_border=true&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxins1211&theme=default&show_icons=true&hide_border=true&layout=compact" width="40%" />
 </div>
