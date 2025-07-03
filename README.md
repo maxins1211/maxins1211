@@ -50,6 +50,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -65,6 +66,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxins1211&theme=default&show_icons=true&hide_border=true&count_private=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxins1211&theme=default&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxins1211&theme=default&show_icons=true&hide_border=true&layout=compact" width="40%" />
 </div>
