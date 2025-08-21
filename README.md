@@ -18,7 +18,7 @@
 ## 📂 Projects
 
 - [Portfolio](https://nghilamvo-portfolio.vercel.app/) – Responsive personal portfolio built with React and TailwindCSS.  
-- [ITale](#) (In-progress) – Story-sharing app for creating and reading interactive tales.  
+- [ITale](https://itale-6bb8bdbcbb80.herokuapp.com/) – Story-sharing app for creating and reading interactive tales.  
 - [LumiLearn](https://lumi-learn-9edb0d0cbf85.herokuapp.com/) – a MVC e-learning application with role-based access control for students and administrators  
 - [Frigorithm](https://devpost.com/software/fridgorithm) – an AI-powered recipe app processing ingredients via text, speech, or image input
 - [BrainBuddy](https://devpost.com/software/brainbuddy-xrq4du) – an educational AI assistant generating personalized flashcards based on user-selected topics   
