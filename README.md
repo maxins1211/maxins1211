@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
--I'm a student at **Sheridan College**, currently enrolled in the **Software Development and Network Engineering (SDNE)** program.
+-I'm a 3rd year student at **Sheridan College**, currently enrolled in the **Software Development and Network Engineering (SDNE)** program.
 
 -I'm passionate about **full stack development**, with a current focus on the **MERN stack** (MongoDB, Express, React, Node.js).  
 
